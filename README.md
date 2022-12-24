@@ -4,9 +4,10 @@ Computer Science Undergrad @VIT, Vellore
 ---
 ### My Stats:
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rsashank&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=rsashank&theme=react&border_radius=5)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rsashank&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rsashank&layout=compact&theme=react&border_radius=5)](https://github.com/anuraghazra/github-readme-stats)
+
 ---
 
 <div id="header" align="center">
