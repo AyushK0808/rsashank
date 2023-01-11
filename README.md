@@ -1,5 +1,5 @@
-### Hello👋, I'm Sashank
-Computer Science Undergrad @VIT, Vellore (Graduating 2026) 
+### Hello👋, I'm Sashank.
+Computer Science @VIT, Vellore (Graduating 2026) 
 
 ---
 ### My Stats:
